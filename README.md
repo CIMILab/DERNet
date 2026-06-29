@@ -23,6 +23,7 @@ Our approach addresses the sensitivity-specificity trade-off and effectively cap
 *   **Robust Imbalance Handling:** Implementation of **Copy-Paste Augmentation**, **Focal Loss**, and **Class-Aware Sampling** to address limit-case class imbalances (up to 46.9:1).
 *   **Validated Performance:** Statistically significant improvement over baselines (p < 0.05) with **90.67% AUROC** in classification and **41.2% mAP@0.5** in detection.
 *   **Explainable AI:** Integrated with LIME and Grad-CAM for transparent clinical decision support.
+*   **Resources:** A fully reproducible framework specifically engineered to operate efficiently within low-resource and controlled environments.
 
 ---
 
